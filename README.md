@@ -33,4 +33,4 @@ Este projeto esta sobe a licença [MIT](./license.txt).
 
 ---
 
-          Desenvolvido com 💜 por Maria Emília Lelis.
+Criado com 💙 por [Maria Emília](https://github.com/lellismaria)
