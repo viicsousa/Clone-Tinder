@@ -29,7 +29,7 @@ Você pode acessar o projeto clicando [aqui](clone-tinder-pj.vercel.app/).
 
 ### 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./license.txt).
+O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
 
 ---
 
