@@ -32,4 +32,5 @@ Você pode acessar o projeto clicando [aqui](clone-tinder-pj.vercel.app/).
 Este projeto esta sobe a licença [MIT](./license.txt).
 
 ---
-**Desenvolvido com ❤️ por [Maria Emília Lelis](https://github.com/lellismaria/).**
+
+          Desenvolvido com 💜 por Maria Emília Lelis.
