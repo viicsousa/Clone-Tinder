@@ -27,6 +27,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+## 🧠 Créditos
+
+- Agradeço ao Felipe Rocha pelo tutorial e a maneira como o mesmo explicou o conteúdo, consegui configurar meu projeto graças as dicas que o mesmo foi passando durante todo o vídeo.
+
+[Github](https://github.com/felipemotarocha) <br>
+[YouTube](https://www.youtube.com/c/dicasparadevs)
+
+---
+
 ### 📝 Licença
 
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
