@@ -37,6 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ### 📝 Licença
+
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
 ---
 Criado com 💙 por [Maria Emília](https://github.com/lellismaria)
