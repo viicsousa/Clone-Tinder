@@ -32,7 +32,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [Github](https://github.com/felipemotarocha) <br>
 [YouTube](https://www.youtube.com/c/dicasparadevs)
-- Você pode acessar o projeto clicando <a href="https://project-flexbox-dio.vercel.app/">aqui</a>.
 
 ---
 
